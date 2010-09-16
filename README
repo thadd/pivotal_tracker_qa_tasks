@@ -1,0 +1,1 @@
+This script adds QA tasks to your Pivotal Tracker stories. To use it, set your project ID and Tracker Token near the top of the file. Then just set up a cron job to run it on a regular basis (I use 15 minutes).
